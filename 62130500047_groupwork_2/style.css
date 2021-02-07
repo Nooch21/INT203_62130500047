@@ -1,16 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
 
-body {
+/* body {
     background-color: #545454;
     font-family: "Poppins", sans-serif;
     font-weight: 300
-}
+} */
 
 .container {
     height: 100vh
 }
 
-.card {
+/* .card {
     width: 380px;
     border: none;
     border-radius: 15px;
@@ -18,7 +18,7 @@ body {
     background-color: #fff;
     position: relative;
     height: 370px
-}
+} */
 
 .upper {
     height: 100px
@@ -38,7 +38,8 @@ body {
 .profile img {
     height: 80px;
     width: 80px;
-    margin-top: 2px
+    margin-top: 2px;
+    margin-left: 2px;
 }
 
 .profile {
@@ -51,12 +52,12 @@ body {
     border-radius: 50%
 }
 
-.follow {
+/* .follow {
     border-radius: 15px;
     padding-left: 20px;
     padding-right: 20px;
     height: 35px
-}
+} */
 
 .stats span {
     font-size: 29px
